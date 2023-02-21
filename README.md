@@ -4,7 +4,9 @@ Simulated a community of people interacting with each other and created a tempor
 Temopral Network
 
 Nodes: People
+
 Edges: Interactions with two people
+
 Edges weight: The time when the Interactions occur
 
 With the Temporal Network we do various graph analysis to find the best containment strategies with the help of the library Network X.
